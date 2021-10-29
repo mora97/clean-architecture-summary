@@ -1,10 +1,14 @@
 # clean-architecture-summay
-*this is a summary for clean-architecture in Persian language*
+*this is a summary of clean-architecture in Persian language*
 
-I try to summarize this valuable book in **Persian** language clearly, but i doubt that i translate and summarize it very well if you found any mistak or even it could be written better, please do below steps:
+if you don't know Persian you can use this summary: [https://github.com/serodriguez68/clean-architecture](https://github.com/serodriguez68/clean-architecture)
 
-- create a new branch
+also you can watch this [viedeo](https://youtu.be/sn0aFEMVTpA) which Uncle Bob himself is the presenter, to learn clean architecture
+
+I try to summarize this valuable book that has been written by *Robert C. Martin* in **Persian** language clearly, but i doubt that i translate and summarize it very well. if you found any mistake or even it could be written better, please do below steps:
+
 - do your changes
+- submit changes on new branch 
 - send merge request
 
 thanks :)
