@@ -1,7 +1,7 @@
 # clean-architecture-summay
 *this is a summary of clean-architecture in Persian language*
 
-if you don't know Persian you can use this summary: [https://github.com/serodriguez68/clean-architecture](https://github.com/serodriguez68/clean-architecture)
+if you don't know Persian you can use this summary: [https://github.com/serodriguez68/clean-architecture](https://github.com/serodriguez68/clean-architecture)</br>
 also you can watch this [video](https://youtu.be/sn0aFEMVTpA) to learn clean architecture, in this video Uncle Bob himself is the presenter
 
 ---
