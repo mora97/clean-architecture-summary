@@ -6,7 +6,7 @@ also you can watch this [video](https://youtu.be/sn0aFEMVTpA) to learn clean arc
 
 ---
 
-I try to summarize this valuable book that has been written by *Robert C. Martin* in **Persian** language clearly, but i doubt that i translate and summarize it very well. if you found any mistake or even it could be written better, please do below steps:
+I try to summarize this valuable book that has been written by *Robert C. Martin* in **Persian** language clearly, but i doubt that i translated and summarized it very well. if you found any mistake or even it could be written better, please do below steps:
 
 - do your changes
 - submit changes on new branch 
